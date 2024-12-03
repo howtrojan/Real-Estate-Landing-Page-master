@@ -6,6 +6,6 @@ Neste desafio, o objetivo foi avaliar a capacidade de manipular o DOM e estiliza
 
 # Instruções
 
-1. Faça o download do reposit rio ZIP ou clone o reposit rio com o comando `git clone https://github.com/Webschool-io/Teste-Pr-tico.git`.
+1. Faça o download do reposit rio ZIP ou clone o reposit rio com o comando `git clone`.
 2. Abra o arquivo `index.html` em um navegador para visualizar a estrutura do projeto.
 3. Faça o commit e push das alterações realizadas.
